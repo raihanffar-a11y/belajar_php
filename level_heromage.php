@@ -99,3 +99,4 @@ foreach ($heroMage as $nama => $role) {
 }
 
 ?>
+json_encode

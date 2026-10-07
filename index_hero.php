@@ -3,7 +3,7 @@
 echo "Hello Raihan Fadhil Fathin Arrayan!<br><br>";
 
 // 2. Variabel PHP
-$nama = "Raihan"; // Tipe data String
+$nama = "Raihan"; // Tipe data String variabel di php harus di awali dengan taag $ untuk menandakan bahwa itu adalah variabel
 $umur = 15;       // Tipe data Integer
 
 // Menampilkan isi variabel
